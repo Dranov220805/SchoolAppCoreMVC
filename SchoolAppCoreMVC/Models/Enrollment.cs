@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace SchoolAppCore.Models
+namespace SchoolAppCoreMVC.Models
 {
     public class Enrollment
     {
